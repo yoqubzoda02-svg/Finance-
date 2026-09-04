@@ -1,0 +1,5 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #1C1B1A; }
+body { font-family: 'Inter', sans-serif; -webkit-tap-highlight-color: transparent; }
+input[type="date"]::-webkit-calendar-picker-indicator { filter: invert(1); opacity: 0.6; }
+button { font-family: inherit; }
